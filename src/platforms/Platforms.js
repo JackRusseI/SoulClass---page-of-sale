@@ -15,7 +15,7 @@ export function Platforms(){
         <a href="#" className="action-call-02">ASSINE AGORA</a>
         <div>
           <div>
-            
+            teste
           </div>
           <small></small>
         </div>
