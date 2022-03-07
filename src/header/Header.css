@@ -1,0 +1,45 @@
+header{
+  display: flex;
+  align-items: center;
+  padding: 10px 4vw;
+  position: fixed;
+  width: 92vw;
+  top: 0px;
+  left: 0px;
+}
+
+.soulClassLogo{
+  width: 200px;
+}
+
+.header-nav{
+  margin-left: auto;
+  color: white;
+  display: flex;
+}
+
+.header-nav li{
+  cursor: pointer;
+  padding:6px 15px;
+  border-radius: 20px;
+  font-weight: 700;
+}
+
+#login-button{
+  margin-right: 20px;
+  background-color: black;
+}
+
+#login-button:hover{
+  background-color: #181818;
+}
+
+#redirect-button{
+  background: rgb(10,144,127);
+  background: linear-gradient(270deg, rgba(10,144,127,1) 20%, rgba(186,0,255,1) 100%);
+}
+
+#redirect-button:hover{
+  background: rgb(10,144,127);
+  background: linear-gradient(90deg, rgba(10,144,127,1) 20%, rgba(186,0,255,1) 100%);
+}
