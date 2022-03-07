@@ -24,5 +24,5 @@ export function Platforms(){
         <img src={mediatypes} alt="" />
       </div>
     </div>
-  );
+  )
 }
