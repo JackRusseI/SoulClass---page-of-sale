@@ -1,0 +1,17 @@
+.main-div-explication{
+
+}
+
+#explication-title{
+  color: white;
+  text-align: center;
+}
+
+.soulclass-platform-itens{
+  display: flex;
+  overflow: hidden;
+  justify-content: center;
+  padding-left: 4vw;
+  padding-right: 4vw;
+  padding-top: 1vw;
+}
