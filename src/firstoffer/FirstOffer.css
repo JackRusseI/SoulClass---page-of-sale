@@ -1,5 +1,5 @@
 .FO-background{
-  height: 100vh;
+  margin-top: 100px;
   width: 100%;
   background-image: url("../image/nebbolosa.png");
   background-position: top;
@@ -17,16 +17,18 @@
 }
 
 .head img{
-  width: 100%;
+  width: 50%;
+  margin: auto;
+  display: block;
 }
 
 .experts{
   position: absolute;
-  top: -2%;
+  top: -20%;
   left: 0px;
   right: 0px;
   margin: auto;
-  max-width: 900px;
+  max-width: 1600px;
 }
 
 .text{

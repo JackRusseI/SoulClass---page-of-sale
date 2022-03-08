@@ -1,0 +1,32 @@
+.DowloadInfos-body{
+  padding-left: 4vw;
+  padding-right: 4vw;
+  display: flex;
+}
+
+.DowloadInfos{
+  color: white;
+  width: 25%;
+}
+
+.DowloadInfos h2{
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+.DowloadInfos p{
+  margin-bottom: 20px;
+}
+
+.DowloadInfos img{
+  width: 40%;
+}
+
+.DowloadBanner{
+  width: 75%;
+}
+
+.DowloadBanner img{
+  width: 100%;
+}
+
