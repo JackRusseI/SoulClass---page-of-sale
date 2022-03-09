@@ -1,0 +1,35 @@
+.SoulTV-Body{
+  display: flex;
+  padding-left: 4vw;
+  padding-right: 4vw;
+  margin-top: 50px;
+}
+
+.SoulTV-Image{
+  width: 60%;
+}
+
+.SoulTV-Image img{
+  width: 100%;
+}
+
+.SoulTV-Infos{
+  width: 40%;
+  margin-top: 60px;
+  margin-left: 50px;
+}
+
+.SoulTV-Infos p {
+  color: white;
+  width: 80%;
+}
+
+.SoulTV-Infos img{
+  width: 200px;
+}
+
+#SoulSeriesCard{
+  max-width: 120px;
+  margin: 50px;
+  float: right;
+}

@@ -1,0 +1,40 @@
+.sample-body{
+  margin-top: 50px;
+  color: white;
+  text-align: center;
+}
+
+.sample-body h2, .sample-body p{
+  margin-bottom: 10px;
+}
+
+#sample-email-input{
+  background-color: rgba(255, 255, 255, 0);
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 5px;
+  width: 800px;
+}
+
+#sample-button-input{
+  background-color: rgba(255, 255, 255, 0);
+  border: 1px solid white;
+  padding: 10px;
+  color: white;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+
+.FAQ{
+  margin-top: 50px;
+}
+#FAQ-button{
+  opacity: 0.7;
+  border: 1px solid white;
+  padding: 15px;
+  border-radius: 5px;
+  display: block;
+  width: fit-content;
+  margin: auto;
+  margin-top: 20px;
+}

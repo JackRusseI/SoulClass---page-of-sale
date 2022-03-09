@@ -14,6 +14,7 @@ export function Explication(){
   const listCards = cards.map((card) => <Card card_img={card} />);
   return (
     <div className="main-div-explication">
+      
       <p id="explication-title">
         uma plataforma de conteúdos voltados para a{" "}
         <strong>expansão da consciência</strong>, <br /> com o intuito de ajudar

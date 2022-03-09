@@ -50,6 +50,29 @@
   color: white;
 }
 
+.exclusive-description h3{
+  margin-top: 20px;
+}
+
+.exclusive-calling{
+  font-weight: 700;
+  font-size: 1.2rem;
+  width: 200px;
+  margin-bottom: 40px;
+  position: absolute;
+  text-align: center;
+  bottom: 0px;
+  background: rgb(10,144,127);
+  background: linear-gradient(270deg, rgba(10,144,127,1) 20%, rgba(186,0,255,1) 100%);
+  border-radius: 20px;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+.exclusive-calling:hover{
+  background: rgb(10,144,127);
+  background: linear-gradient(90deg, rgba(10,144,127,1) 20%, rgba(186,0,255,1) 100%);
+}
+
 .exclusive-sounds{
   position: absolute;
   display: flex;

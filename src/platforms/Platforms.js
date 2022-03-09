@@ -12,7 +12,7 @@ export function Platforms(){
           outros aparelhos. <br />
           Nossa coleção de <strong>Títulos 4k</strong> não para de crescer. Além disso, para a felicidade de todos, é possível assistir em até 4 telas ao mesmo tempo.
         </p>
-        <a href="#" className="action-call-02">ASSINE AGORA</a>
+        <a href="#idPromotional-anual-value" className="action-call-02">ASSINE AGORA</a>
         <div>
           <div>
             teste

@@ -6,6 +6,11 @@ header{
   width: 92vw;
   top: 0px;
   left: 0px;
+  z-index: 2;
+}
+
+.scrolled-header{
+  background-color: #0c0c16;
 }
 
 .soulClassLogo{

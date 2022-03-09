@@ -1,0 +1,114 @@
+.Pricing-body{
+  color: white;
+  padding-left: 4vw;
+  padding-right: 4vw;
+}
+
+.Pricing-Offer{
+  width: 400px;
+}
+
+.Pricing-infos{
+  justify-content: center;
+  margin-top: 50px;
+  display: flex;
+}
+
+.normal-anual-value{
+  position: relative;
+}
+.normal-anual-value img{
+  width: 300px;
+  margin-right: 0px;
+}
+.normal-anual-price{
+  width: 170px;
+  height: 150px;
+  background-color: rgba(255, 255, 255, 0.575);
+  border-radius: 0px 0px 20px 20px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+}
+.anual-title{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  margin-left: -30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  width: 170px;
+  height: 30px;
+  margin-top: 20px;
+  background-color: white;
+}
+.anual-title h3{
+  color: rgba(0, 0, 0, 0.836);
+  font-weight: 300;
+}
+.soul-logos{
+  position: absolute;
+  top: 40%;
+  margin: 0px 50px;
+}
+.soul-logos img{
+  width: 200px;
+}
+.normal-anual-buy-button{
+  font-size: 1.2rem;
+  width: 200px;
+  margin-left: 30px;
+  margin-bottom: 60px;
+  position: absolute;
+  text-align: center;
+  bottom: 0px;
+  background: rgb(214,129,0);
+  background: linear-gradient(90deg, rgba(214,129,0,1) 0%, rgba(43,43,43,1) 100%);
+  border-radius: 20px;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+.normal-anual-buy-button:hover{
+  background: rgb(214,129,0);
+  background: linear-gradient(270deg, rgba(214,129,0,1) 0%, rgba(43,43,43,1) 100%);
+}
+
+.promotional-anual-buy-button{
+  font-size: 1.2rem;
+  width: 200px;
+  margin-left: 30px;
+  margin-bottom: 60px;
+  position: absolute;
+  text-align: center;
+  bottom: 0px;
+  background: rgb(10,144,127);
+  background: linear-gradient(270deg, rgba(10,144,127,1) 20%, rgba(186,0,255,1) 100%);
+  border-radius: 20px;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+.promotional-anual-buy-button:hover{
+  background: rgb(10,144,127);
+  background: linear-gradient(90deg, rgba(10,144,127,1) 20%, rgba(186,0,255,1) 100%);
+}
+.promotional-anual-value{
+  position: relative;
+  margin-left: 40px;
+  box-shadow: -40px 10px 40px rgba(0, 0, 0, 0.774);
+  width: 300px;
+  transform: scale(1.2);
+}
+.promotional-anual-value img{
+  width: 100%;
+}
+.promotional-anual-buy-button small{
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  bottom: -15px;
+  left: 5px;
+}

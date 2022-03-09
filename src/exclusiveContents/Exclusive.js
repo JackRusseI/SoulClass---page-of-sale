@@ -78,6 +78,7 @@ export function Exclusive(){
               nível de produção sobre diversos assuntos relacionados a expanção
               da consciência, onde você é ensinado por grandes Nomes!
             </p>
+            <a href="#idPromotional-anual-value" className="exclusive-calling">ASSINE AGORA</a>
           </div>
           
         </div>
