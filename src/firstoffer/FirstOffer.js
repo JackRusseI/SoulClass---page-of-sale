@@ -15,7 +15,7 @@ export function FirstOffer(){
         <div className="text">
           <h1>UM UNIVERSO NOVO <br /> TE ESPERA</h1>
           <p>Conheça a SoulClass, e <br />expanda seu conhecimento</p>
-          <a className="actin-call-01" href="#idPromotional-anual-value" id="assinacture" >ASSINE AGORA</a>
+          <a className="actin-call-01" id="assinacture" >ASSINE AGORA</a>
           <small>*aplicável ao plano anual com o pagamento antecipado.</small>
         </div>
       </div>

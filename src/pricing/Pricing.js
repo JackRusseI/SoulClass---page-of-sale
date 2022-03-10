@@ -40,10 +40,8 @@ export function Pricing(){
             <img src={soul_logos} alt="" />
           </div>
 
-          <div className="promotional-anual-buy-button">
-            <p>ASSINE <span style={{fontWeight: '700', fontSize:'1.3rem'}}>AGORA</span></p>
+          <a onclick="return false;" href="https://pay.hotmart.com/I67948292M?checkoutMode=2" class="hotmart-fb promotional-anual-buy-button">ASSINE <span style={{fontWeight: '700', fontSize:'1.3rem'}}>AGORA</span></a>
             <small>PAGAMENTO 100% SEGURO</small>
-          </div>
         </div>
       </div>
     </div>
